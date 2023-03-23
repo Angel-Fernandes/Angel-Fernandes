@@ -1,7 +1,7 @@
 Oi, sou a Angel 🦊
 
-📚 Cursando o 2º período de Análise e Desenvolvimento de Sistemas pela UNISUAM. <br>
-🌱 Estudando HTML, CSS e JavaScript <br>
+📚 Cursando o 4º período de Análise e Desenvolvimento de Sistemas pela UNISUAM. <br>
+🌱 Estudando Cibersegurança e Java <br>
 
 <div align="center">
   <a href="https://github.com/Angel-Fernandes">
