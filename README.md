@@ -19,8 +19,7 @@ Oi, sou a Angel 🦊
     <img align="center" alt="Rafa-Js" height="30" width="65" <img src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white"/>    
     <img align="center" alt="Rafa-Js" height="30" width="65" <img src="https://img.shields.io/badge/Canva-%2300C4CC.svg?&style=for-the-badge&logo=Canva&logoColor=white"/>
     <img align="center" alt="Rafa-Js" height="30" width="65" <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"/>
-   <img align="center" alt="Rafa-Js" height="30" width="40" <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/illustrator/illustrator-line.svg"/>
-   <img align="center" alt="Rafa-Js" height="30" width="40" <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-line.svg"/>
+   <img align="center" alt="Rafa-Js" height="30" width="65" <img src="https://img.shields.io/badge/Adobe%20Illustrator-FF9A00?style=for-the-badge&logo=adobe%20illustrator&logoColor=white"/>
   </div>
   
   ##
