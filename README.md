@@ -1,7 +1,8 @@
 Oi, sou a Angel 🦊
 
-📚 Cursando o 4º período de Análise e Desenvolvimento de Sistemas pela UNISUAM. <br>
-🌱 Estudando Cibersegurança e Java <br>
+📚 Cursando o 5º período de Análise e Desenvolvimento de Sistemas pela UNISUAM. <br>
+🌱 Estudando Cibersegurança, Inteligencia Artificial e Full-Stack na Alura <br>
+🌱 Estudando Cibersegurança e Ciência de Dados na Cisco
 
 <div align="center">
   <a href="https://github.com/Angel-Fernandes">
