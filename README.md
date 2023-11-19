@@ -1,7 +1,7 @@
 Oi, sou a Angel 🦊
 
-📚 Cursando o 5º período de Análise e Desenvolvimento de Sistemas pela UNISUAM. <br>
-🌱 Estudando Cibersegurança, Inteligencia Artificial e Full-Stack na Alura <br>
+🎓 Formada em Análise e Desenvolvimento de Sistemas pela UNISUAM. <br>
+🌱 Estudando Cibersegurança e Full-Stack na Alura e DIO <br>
 🌱 Estudando Cibersegurança e Ciência de Dados na Cisco
 
 <div align="center">
