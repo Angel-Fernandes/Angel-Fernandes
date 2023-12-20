@@ -2,7 +2,7 @@ Oi, sou a Angel 🦊
 
 🎓 Formada em Análise e Desenvolvimento de Sistemas pela UNISUAM. <br>
 🌱 Estudando Cibersegurança e Full-Stack na Alura e DIO <br>
-🌱 Estudando Cibersegurança e Ciência de Dados na Cisco
+🌱 Estudando Cibersegurança na Cisco 
 
 <div align="center">
   <a href="https://github.com/Angel-Fernandes">
