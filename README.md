@@ -1,7 +1,7 @@
 Oi, sou a Angel 🦊
 
 🎓 Formada em Análise e Desenvolvimento de Sistemas pela UNISUAM. <br>
-🌱 Estudando Banco de dados na DIO <br>
+🌱 Estudando Banco de dados e Inteligência Artificial na DIO <br>
 
 
 <div align="center">
